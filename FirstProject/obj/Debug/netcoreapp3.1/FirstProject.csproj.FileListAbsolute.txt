@@ -1,0 +1,14 @@
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.dev.json
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.dll
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.pdb
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.AssemblyReference.cache
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfoInputs.cache
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfo.cs
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CoreCompileInputs.cache
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
+E:\Trainings\HPC22CSDDN002\FirstSolution\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache
